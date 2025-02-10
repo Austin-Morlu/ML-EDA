@@ -1,0 +1,59 @@
+Gen Z Dating App DATASET
+
+Are there any duplicate rows? If yes, why might duplicates exist in this dataset?:
+There were no duplicates in this data set.
+
+Are there inconsistencies in categorical values (e.g., spelling variations, case sensitivity)?: 
+Not exactly.
+
+What should we do if a column has too many missing values?:
+Drop the column if it has too many missing values.
+
+Are there outliers in numerical columns? If so, should we remove or adjust them?:
+No outliers exist in this dataset.
+
+Does gender influence dating app preferences?:
+Yes, this is because from the exploratory data analysis it can be seen that the different genders have different preferences in the dating apps being used as it is not fixed on just one app.
+
+Are people using multiple dating apps simultaneously?
+Yes, because from the exploration of the data it can be seen that users have primary apps and secondary apps the use which are not the same thus proving that some people use multiple.
+
+
+Which age group is most active on dating apps?
+Age group 24 is the most active.
+
+
+Do people in urban vs. rural areas show different usage patterns?
+Not entirely different patterns in their usage.
+
+Is there gender bias in dating app usage?
+No there is not.
+
+Are certain demographics overrepresented in the dataset?
+Yes, people within the ages of 21-24 are overrepresented.
+
+Is there a missing group of users that should have been included?
+I do not think so.
+
+Can we trust this dataset for making general claims about Gen-Z dating in India?
+Not entirely because a sample size of 500 should not be enough to make general claims about a country as populated as india.
+
+Are younger or older Gen-Z users more active on dating apps?
+Older Gen-Z users are more active.
+
+Does dating app preference change over time?
+Ys it does.
+
+Do metro city users behave differently from users in smaller towns?
+No they do not.
+
+If a dating app wanted to expand into rural India, which insights from this dataset
+would be most valuable?
+The challenges being faced by current users.
+
+If you were designing a new dating app based on this data, what two features would
+you add?
+Enhanced security features and Video calls.
+
+What were the biggest data cleaning challenges in this dataset?
+The dilemma of the type of fill-in method for the missing values or whether to drop the columns.
